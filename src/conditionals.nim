@@ -23,6 +23,17 @@ if age == 100:
 else:
     discard
 
+# We need to use 'and', 'or' rather than '&&' and '||'
+var x = 5
+var y = 10
+if (x < 10) and (y <= 10):
+    echo "We met the criteria!"
+
+# ..and 'not' instead of '!'    
+var wednesday = false
+if (not wednesday):
+    echo "It's not mid-week"
+
 # Like Python, we care about indenting. The following will not compile:    
 #if age == 99:
 #echo "you're old!"    

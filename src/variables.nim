@@ -19,9 +19,10 @@ var some_char = 'x'
 echo "some_char = ", some_char
 
 # We can also specify a type
-
 var some_other_int: int = 1234
 echo "some_other_int = ", some_other_int
+var some_bool: bool = false
+echo "some_bool = ", some_bool
 
 # Variables are mutable by default
 some_other_int = 4321
