@@ -75,3 +75,7 @@ echo "my_number = ", my_number
 # This would cause an error
 #my_number = my_number * 10
 
+# Nim has a whole bunch of different sized ints we can use:
+# int int8 int16 int32 int64 uint uint8 uint16 uint32 uint64.
+# ..and the same for floats:
+# float float32 float64
