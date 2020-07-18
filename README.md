@@ -2,6 +2,8 @@
 
 Dumping ground for learning Nim
 
+Mostly taken from [Nim-Lang](https://nim-lang.org/docs/tut1.html) and [Nim by Example](https://nim-by-example.github.io/getting_started/)
+
 ## Contents
 
 [hello.nim](https://github.com/James-P-D/NimDump/blob/master/src/hello.nim)  
@@ -16,21 +18,20 @@ Dumping ground for learning Nim
 [strings.nim](https://github.com/James-P-D/NimDump/blob/master/src/strings.nim)  
 [advanced_types.nim](https://github.com/James-P-D/NimDump/blob/master/src/advanced_types.nim)  
 [arrays.nim](https://github.com/James-P-D/NimDump/blob/master/src/arrays.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[sequences.nim](https://github.com/James-P-D/NimDump/blob/master/src/sequences.nim)  
 
 
-variables: defaults!
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
+[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
