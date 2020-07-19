@@ -47,6 +47,15 @@ proc overloaded_add(a, b: int): int =
     return a + b
 proc overloaded_add(a, b, c: int): int =
     return a + b + c
+
+# We can have functions with variable numbers of parameters
+proc display_words(words: varargs[string]) =
+  echo "Here are some words.."
+  for word in items(words):
+    echo "Word: ", word
+  echo "That's it!"
+
+# ACTUAL PROCEDURE CALLS FROM HERE ONWARDS
     
 say_hello()
 display_numbers(12, 34)
@@ -82,3 +91,7 @@ display_person(height = 1.83, age = 33, name = "Robert")
 echo "1 = ", overloaded_add(1)
 echo "1 + 2 = ", overloaded_add(1, 2)
 echo "1 + 2 + 3 = ", overloaded_add(1, 2, 3)
+
+display_words()
+display_words("foo")
+display_words("foo", "bar", "moo")

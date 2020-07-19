@@ -1,7 +1,7 @@
 #nim compile --run sequences.nim
 #nim c -r sequences.nim
 
-# Sequences are lists
+# Sequences are lists (add, remove, insert etc.)
 var int_seq: seq[int]
 echo "int_seq = ", int_seq
 # We can add
@@ -26,3 +26,4 @@ echo "new_int_seq = ", new_int_seq
 var concat_seq = int_seq & new_int_seq
 echo "concat_seq = ", concat_seq
 
+# All the normal 'for' loops stuff works for sequences like they do for arrays
