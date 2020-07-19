@@ -22,8 +22,8 @@ Mostly taken from [Nim-Lang](https://nim-lang.org/docs/tut1.html) and [Nim by Ex
 [slices.nim](https://github.com/James-P-D/NimDump/blob/master/src/slices.nim)  
 [objects.nim](https://github.com/James-P-D/NimDump/blob/master/src/objects.nim)  
 [tuples.nim](https://github.com/James-P-D/NimDump/blob/master/src/tuples.nim)  
+[pointers_and_references.nim](https://github.com/James-P-D/NimDump/blob/master/src/pointers_and_references.nim)  
 
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
 [variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
 [variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
 [variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
