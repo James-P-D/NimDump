@@ -19,11 +19,10 @@ Mostly taken from [Nim-Lang](https://nim-lang.org/docs/tut1.html) and [Nim by Ex
 [advanced_types.nim](https://github.com/James-P-D/NimDump/blob/master/src/advanced_types.nim)  
 [arrays.nim](https://github.com/James-P-D/NimDump/blob/master/src/arrays.nim)  
 [sequences.nim](https://github.com/James-P-D/NimDump/blob/master/src/sequences.nim)  
+[slices.nim](https://github.com/James-P-D/NimDump/blob/master/src/slices.nim)  
+[objects.nim](https://github.com/James-P-D/NimDump/blob/master/src/objects.nim)  
+[tuples.nim](https://github.com/James-P-D/NimDump/blob/master/src/tuples.nim)  
 
-
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
-[variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
 [variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
 [variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
 [variables.nim](https://github.com/James-P-D/NimDump/blob/master/src/variables.nim)  
