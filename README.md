@@ -4,6 +4,12 @@ Dumping ground for learning Nim
 
 Mostly taken from [Nim-Lang](https://nim-lang.org/docs/tut1.html) and [Nim by Example](https://nim-by-example.github.io/getting_started/)
 
+To compile and run:
+
+```
+nim c -r hello.nim
+```
+
 ## Contents
 
 * [hello.nim](https://github.com/James-P-D/NimDump/blob/master/src/hello.nim)
